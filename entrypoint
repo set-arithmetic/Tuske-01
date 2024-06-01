@@ -1,2 +1,2 @@
-cd /opt/upgraded-couscous/ && chmod 777 * && ls
+cd /opt/Tuske-01/ && chmod 777 * && ls
 ./tuskem --algorithm randomtuske --pool randomx.rplant.xyz:17123 --wallet TuskeSyuWbHErHKLFg7moKRFPDLwLQN5bUKDzbxmd8VHMShgKHbDPFe6VmyranJG3KbhaZnDm6fPvcpt4UaFu8dRYPgAdTwmyqp3VQ.tes --cpu-threads 4 --proxy socks5://192.111.134.10:4145
